@@ -65,6 +65,7 @@ gcc-libs 9.1.0-2
 gcolor2 0.4-8
 gconf 3.2.6+11+g07808097-4
 gettext 0.20.1-1
+gimp 2.10.12-2
 gksu-polkit 0.0.3-1
 glibc 2.29-4
 gnome-disk-utility 3.32.1-1
