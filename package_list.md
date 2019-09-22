@@ -51,6 +51,7 @@ c-ares 1.15.0-1
 ca-certificates 20181109-1
 ca-certificates-mozilla 3.46-1
 ca-certificates-utils 20181109-1
+caffeine-ng 3.4.2-2.1
 cairo 1.17.2+17+g52a7c79fd-1
 cairomm 1.12.2-3
 cantarell-fonts 1:0.111-1
@@ -93,7 +94,7 @@ dmraid 1.0.0.rc16.3-11
 dnsmasq 2.80-4
 dnssec-anchors 20190629-1
 docker 1:19.03.1-2
-doctl-bin 1.30.0-1
+doctl-bin 1.31.2-1
 dosfstools 4.1-2
 double-conversion 3.1.5-1
 e2fsprogs 1.45.3-1
@@ -149,6 +150,7 @@ gegl 0.4.16-2
 geoip 1.6.12-1
 geoip-database 20180403-1
 gettext 0.20.1-1
+giblib 1.2.4-7
 giflib 5.2.1-1
 gimp 2.10.12-2
 git 2.23.0-1
@@ -591,6 +593,7 @@ mpfr 4.0.2-1
 mpg123 1.25.11-1
 mplayer 38139-1
 mtdev 1.1.5-2
+mtr 0.93-2
 mypaint-brushes1 1.3.0-1
 nano 4.4-1
 ncdu 1.14.1-1
@@ -651,7 +654,7 @@ patch 2.7.6-7
 patchutils 0.3.4-3
 pavucontrol 1:4.0-1
 pciutils 3.6.2-1
-pcmanfm 1.3.1-1
+pcmanfm 1.3.1-2
 pcre 8.43-1
 pcre2 10.33-1
 pcsclite 1.8.25-1
@@ -692,7 +695,7 @@ poppler 0.80.0-1
 poppler-data 0.4.9-1
 poppler-glib 0.80.0-1
 popt 1.16-10
-postman 7.6.0-1
+postman 7.7.2-1
 powerline 2.7-3
 powerline-common 2.7-3
 powerline-fonts-git r202.e80e3eb-1
@@ -724,6 +727,8 @@ python-dbus 1.2.8-2
 python-dbus-common 1.2.8-2
 python-distlib 0.2.9-1
 python-distro 1.4.0-1
+python-docopt 0.6.2-5
+python-ewmh 0.1.6-1
 python-geoip 1.3.2-5
 python-gobject 3.32.2-1
 python-html5lib 1.0.1-3
@@ -761,7 +766,9 @@ python-six 1.12.0-1
 python-twisted 19.7.0-1
 python-urllib3 1.25.3-1
 python-webencodings 0.5.1-2
+python-wheel 0.33.6-1
 python-xdg 0.26-2
+python-xlib 0.24-1
 python-zipp 0.6.0-1
 python-zope-interface 4.6.0-1
 python2 2.7.16-1
@@ -778,6 +785,7 @@ re2 20190901-1
 readline 8.0.0-1
 recode 3.7.2-1
 reiserfsprogs 3.6.27-2
+restic 0.9.5-2
 ripgrep 11.0.2-1
 rofi 1.5.4-1
 rpcbind 1.2.5-2
@@ -792,7 +800,8 @@ rxvt-unicode-patched 9.22-11
 rxvt-unicode-terminfo 9.22-9
 s-nail 14.9.15-1
 sbxkb 0.7.6-3
-screenfetch 3.8.0.r107.g522c9c0-1
+screenfetch 3.8.0.r213.g50ac492-1
+scrot 1.1.1-1
 sdl 1.2.15-10
 sdl2 2.0.10-1
 sed 4.7-1
@@ -883,7 +892,7 @@ wireless-regdb 2019.03.01-1
 wmutils 1:1.4-1
 woff2 1.0.2-1
 wpa_supplicant 2:2.9-1
-wps-office 11.1.0.8865-1
+wps-office 11.1.0.8865-2
 wps-office-fonts 1.0-1
 x264 2:157.r72db4377-1
 x265 3.1.2-1
